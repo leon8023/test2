@@ -1,5 +1,10 @@
 mytestabcdasdf
 asdfasdfasdfasdf
 asdfasdfsafd
+<<<<<<< HEAD
 asdfas1111111111111dfasdfasfdasfd
 asdfadfasdf
+=======
+asdfasdf11111111111111
+asdfadfasdf
+>>>>>>> origin/master
